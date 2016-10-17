@@ -1,0 +1,4 @@
+LICENSE
+log.txt
+README.md
+resources/
